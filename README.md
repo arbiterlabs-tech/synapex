@@ -1,6 +1,6 @@
 ![Twitter-banner](https://user-images.githubusercontent.com/32852637/222915712-93794704-3109-4edc-9c0c-95cb52d9ec17.png)
 
-# Nexus: The Future of Decentralized Application Development
+# Synapex: Developer communities of tomorrow
 
 ## Overview
 
